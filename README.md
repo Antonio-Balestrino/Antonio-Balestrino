@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Antonio Balestrino
+- 👋 Hi, I’m Antonio Balestrino.
 - 🎓 I am currently pursing a bachelor's degree in Computer Engineering at SDSU.
 -  👀 I’m interested in Embedded Systems, Video Creation, Game Devolopement, and Machine Learning.
