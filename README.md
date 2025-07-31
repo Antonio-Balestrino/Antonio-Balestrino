@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Antonio Balestrino.
-- 🧑‍🎓 I am currently a fifth year student pursing a bachelor's degree in Computer Engineering at SDSU.
-- 🎓 Expected Graduation in December 2024
--  👀 I’m interested in Embedded Systems, Video Creation, Game Devolopement, and Machine Learning.
+- 🧑‍🎓 I am a recent graduate from San Diego State University bachelor's degree in Computer Engineering.
+-  👀 I’m interested in Embedded Systems, Software Development, and Application Development.
